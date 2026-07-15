@@ -1,121 +1,173 @@
+<!--
+╔═══════════════════════════════════════════════════════════════════╗
+║              Muhammad Talha — GitHub Profile README               ║
+║                                                                   ║
+║  HOW TO USE                                                       ║
+║  Create a public repo named exactly: MuhammadTalha57             ║
+║  Add this file as README.md — GitHub auto-displays it.           ║
+║                                                                   ║
+║  CUSTOMISATION                                                    ║
+║  Each section is wrapped in comments — edit one at a time.       ║
+║  Global find-replace: "MuhammadTalha57" → your username          ║
+║  Accent colour: A78BFA (violet) — replace across file to change  ║
+╚═══════════════════════════════════════════════════════════════════╝
+-->
+
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 1 · HEADER
+     Edit: typing lines, status badge text, availability link
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
 # Muhammad Talha
 
-```javascript
-const talha = {
-    role: "Aspiring Full-Stack Developer",
-    focus: ["Backend APIs", "Modern Web Apps", "Problem Solving"],
-    currentlyBuilding:
-        "Practical projects with React, Node.js, Express, MongoDB, PostgreSQL, and TypeScript",
-    goal: "To build reliable software, keep improving every week, and grow through real-world engineering work",
-};
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Fullstack+Developer;Competitive+Programmer+%E2%80%94+1%2C135%2B+solved;Open+Source+Contributor+%40+Cucumber;NED+University+%7C+SE+%E2%80%9823%E2%80%9327)](https://git.io/typing-svg)
 
-I am a developer focused on building clean, practical software with strong fundamentals in web development and problem solving.
-Most of my recent work is around full-stack applications, authentication systems, REST APIs, and structured backend development.
+<br/>
 
-## Connect With Me
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadTalha57&color=A78BFA&style=flat-square&label=profile+views)](https://github.com/MuhammadTalha57)&nbsp;
+[![Open to Internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Internships-3FB950?style=flat-square&labelColor=0F2A18)](https://muhammadtalha-portfolio-alpha.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadtalha.dev-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://muhammadtalha-portfolio-alpha.vercel.app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadTalha57)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-54b057296/)
-[![Email](https://img.shields.io/badge/Email-2F855A?style=for-the-badge&logo=gmail&logoColor=white)](muhammadtalha.mailme@gmail.com)
+</div>
 
-## What I Work On
+<br/>
 
-- Full-stack web apps with modern frontend and backend architecture
-- Authentication and authorization flows using JWT and secure API design
-- Database-backed applications with MongoDB, PostgreSQL, Prisma, and Drizzle
-- Data structures, algorithms, and competitive programming practice in C++
 
-## Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 2 · BIO
+     Edit: bullet points, current project, anything time-sensitive
+     ═══════════════════════════════════════════════════════════════ -->
 
-### Languages
+Final-year Software Engineering student at **NED University, Karachi** (2023–2027, CGPA 3.685).
+I build production-grade web systems — Node.js & PostgreSQL on the backend, Next.js & React up front — and contribute to open source between shipping projects.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🔨 &nbsp;**Building:** Excalidraw-style collaborative whiteboard + Cucumber parallel timeline PR
+- 🏆 &nbsp;**LeetCode Knight** · 1,854 rating · 1,135+ problems solved across all platforms
+- 🌱 &nbsp;**OSS:** Active contributor to [`cucumber/react-components`](https://github.com/cucumber/react-components)
+- 📍 &nbsp;Karachi, Pakistan — **open to internships**
 
-### Frontend
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend And Database
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 3 · TECH STACK
+     Edit: add/remove icon keys from the skillicons.dev URL
+     Full icon list → https://skillicons.dev
+     ═══════════════════════════════════════════════════════════════ -->
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logoColor=black)
+## 🛠 &nbsp;Tech Stack
 
-### Tools
+**Languages**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=cpp,ts,js,py)](https://skillicons.dev)
 
-## Featured Projects
+**Frontend**
 
-### Movie Watchlist
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
-Full-stack movie tracking application with JWT authentication, user-specific CRUD operations, responsive UI, and separate frontend and backend deployment workflow.
+**Backend & Databases**
 
-[Repository](https://github.com/MuhammadTalha57/movie-watchlist)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongo,redis)](https://skillicons.dev)
 
-### E-Commerce Site
+**Tools**
 
-Modern learning project built with Next.js, PostgreSQL, Drizzle, Clerk, and Stripe. Covers product browsing, cart management, orders, role-based access, and production-inspired architecture.
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,prisma,postman,vitest)](https://skillicons.dev)
 
-[Repository](https://github.com/MuhammadTalha57/e-commerce-site)
+<br/>
 
-### Library API
 
-RESTful backend for managing books, borrowing, returning, authentication, and inventory workflows. Strong example of backend structuring and API design.
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 4 · GITHUB STATS
+     Edit: username in all three URLs if you fork this
+     Stats card params: https://github.com/anuraghazra/github-readme-stats
+     ═══════════════════════════════════════════════════════════════ -->
 
-[Repository](https://github.com/MuhammadTalha57/library-api)
+## 📊 &nbsp;GitHub Stats
 
-### Express Authentication
+<div align="center">
 
-Focused authentication service using Express, TypeScript, JWT, bcrypt, and protected routes. A compact backend project that demonstrates core auth fundamentals clearly.
+![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadTalha57&hide_border=true&background=161B22&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&stroke=30363D&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E)
 
-[Repository](https://github.com/MuhammadTalha57/express-authentication)
 
-### Competitive Programming
+</div>
 
-Ongoing repository for data structures, algorithms, math, and solved problems in C++. This reflects my interest in writing efficient logic and strengthening core problem-solving skills.
+<br/>
 
-[Repository](https://github.com/MuhammadTalha57/Competitive-Programming)
 
-### Chess
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 5 · COMPETITIVE PROGRAMMING
+     Edit: LeetCode username in leetcard URL (Muhammad_Ta1ha),
+           platform badge links, contest wins below
+     ═══════════════════════════════════════════════════════════════ -->
 
-An offline two-player chess game in Python. One of my earlier projects that reflects interest in logic-heavy programming and interactive application development.
+## ⚡ &nbsp;Competitive Programming
 
-[Repository](https://github.com/MuhammadTalha57/Chess)
+<div align="center">
 
-## Current Focus
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammad_Ta1ha?theme=dark&border=0&radius=8&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Muhammad_Ta1ha/)
 
-- Writing better backend architecture and cleaner APIs
-- Building projects that look polished and are easy to deploy
-- Improving TypeScript, database design, and authentication patterns
-- Practicing DSA consistently to strengthen problem-solving under constraints
+</div>
 
-## GitHub Stats
+<br/>
 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadTalha57&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha57&layout=compact&hide_border=true)
+**Platforms**
 
-## Short Intro
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20·%201854%20rating-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Muhammad_Ta1ha/)&nbsp;
+[![Codeforces](https://img.shields.io/badge/Codeforces-MuhammadTalha-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MuhammadTalha)&nbsp;
+[![CSES](https://img.shields.io/badge/CSES-314533-4CAF50?style=flat-square)](https://cses.fi/user/314533)&nbsp;
+[![AtCoder](https://img.shields.io/badge/AtCoder-MuhammadTalha-gray?style=flat-square)](https://atcoder.jp/users/MuhammadTalha)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/muhammadtalha_m1)
 
-- I like building projects that solve practical problems
-- I enjoy backend logic, authentication systems, and structured database work
-- I am actively improving through projects, iteration, and problem solving
-- I am currently looking to grow through internships and real engineering experience
+**Contest wins**
 
-## Profile Note
+🥇 &nbsp;1st — Code Sprint @ Devday '26, FAST NUCES&nbsp;&nbsp;·&nbsp;&nbsp;🥈 &nbsp;2nd — Speed Programming @ AI Fest 5.0, NED
 
-If you are here to review my work, I recommend starting with Movie Watchlist, E-Commerce Site, and Library API.
-Those projects reflect the direction I am actively growing in as a developer.
+[![Codolio Profile](https://img.shields.io/badge/Full%20CP%20Profile%20on%20Codolio-live%20stats%20%26%20heatmap-A78BFA?style=flat-square)](https://codolio.com/profile/MuhammadTalha)
+
+<br/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 6 · OPEN SOURCE
+     Edit: add rows to the table for new PRs
+     Status options: merged (purple) · open (green) · draft (grey)
+     ═══════════════════════════════════════════════════════════════ -->
+
+## 🌱 &nbsp;Open Source
+
+Contributing to [`cucumber/react-components`](https://github.com/cucumber/react-components) — the shared React library behind Cucumber's HTML test reports.
+
+| Repo | PR | Description | Status |
+|:-----|:--:|:------------|:------:|
+| [cucumber/react-components](https://github.com/cucumber/react-components) | [#517](https://github.com/cucumber/react-components/pull/517) | Directory-first document sorting | ![merged](https://img.shields.io/badge/-merged-8957E5?style=flat-square) |
+| [cucumber/react-components](https://github.com/cucumber/react-components) | [#524](https://github.com/cucumber/react-components/pull/524) | Parallel execution timeline view | ![draft](https://img.shields.io/badge/-draft-6E7681?style=flat-square) |
+| [tajo/ladle](https://github.com/tajo/ladle) | [#641](https://github.com/tajo/ladle/pull/641) | Warn when story file has no exports | ![open](https://img.shields.io/badge/-open-3FB950?style=flat-square) |
+
+<br/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SECTION 7 · CONNECT
+     Edit: badge URLs, link hrefs
+     For-the-badge style used here (bigger = clearer on profile)
+     ═══════════════════════════════════════════════════════════════ -->
+
+## 🤝 &nbsp;Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadtalha-portfolio-alpha.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-talha-54b057296)&nbsp;
+[![Codolio](https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logoColor=white)](https://codolio.com/profile/MuhammadTalha)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalha.mailme@gmail.com)
+
+</div>
+
+<!-- <br/> -->
+
+<!-- <div align="center">
+<sub>Built with <a href="https://readme-typing-svg.demolab.com">readme-typing-svg</a> · <a href="https://skillicons.dev">skillicons.dev</a> · <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> · <a href="https://streak-stats.demolab.com">streak-stats</a> · <a href="https://leetcard.jacoblin.cool">leetcard</a></sub>
+</div> -->
