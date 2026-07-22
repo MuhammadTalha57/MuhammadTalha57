@@ -74,7 +74,7 @@ I build production-grade web systems — Node.js & PostgreSQL on the backend, Ne
 
 **Tools**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vercel,prisma,postman,vitest)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,prisma,postman,vitest,docker)](https://skillicons.dev)
 
 <br/>
 
